@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+
+.Header-section {
+  background-image: url('./images/welcome-banner.jpg');
+  background-position: center;
+  background-size: cover;
+  z-index: 1;
+  width: 100%;
+} 
+
+.first-image-text-section {
+  width: 33%;
+}
+
+.first-image-text-section > img {
+  height: 80px;
+}
+
+.three-horizontal-boxes {
+  display: flex;
+  
+}
